@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: 欢迎来到赌狗游戏
 ---
 
